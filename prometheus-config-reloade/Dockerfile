@@ -1,0 +1,2 @@
+FROM quay.io/coreos/prometheus-config-reloader:v0.26.0
+MAINTAINER shalousun

@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/addon-resizer:1.7
+FROM quay.io/coreos/addon-resizer:1.0
 MAINTAINER shalousun

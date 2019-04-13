@@ -1,2 +1,2 @@
-FROM quay.io/coreos/k8s-prometheus-adapter-amd64:v0.3.0
+FROM quay.io/coreos/k8s-prometheus-adapter-amd64:v0.4.1
 MAINTAINER shalousun

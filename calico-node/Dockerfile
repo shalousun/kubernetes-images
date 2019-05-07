@@ -1,2 +1,2 @@
-FROM quay.io/calico/node:v3.2.2
+FROM calico/node:v3.7.1
 MAINTAINER shalousun

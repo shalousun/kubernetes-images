@@ -1,2 +1,2 @@
-FROM quay.io/calico/cni:v3.2.2
+FROM calico/cni:v3.7.1
 MAINTAINER shalousun

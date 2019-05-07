@@ -1,2 +1,2 @@
-FROM quay.io/calico/kube-controllers:v3.2.2
+FROM calico/kube-controllers:v3.7.1
 MAINTAINER shalousun

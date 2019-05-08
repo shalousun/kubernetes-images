@@ -1,2 +1,2 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.23.0
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.24.1
 MAINTAINER shalousun

@@ -1,2 +1,2 @@
-FROM quay.io/coreos/prometheus-operator:v0.28.0
+FROM quay.io/coreos/prometheus-operator:v0.37.0
 MAINTAINER shalousun

@@ -1,2 +1,2 @@
-FROM quay.io/coreos/configmap-reload:v0.0.1
+FROM jimmidyson/configmap-reload:v0.3.0
 MAINTAINER shalousun

@@ -1,2 +1,2 @@
-FROM quay.io/prometheus/alertmanager:v0.16.0
+FROM quay.io/prometheus/alertmanager:v0.20.0
 MAINTAINER shalousun

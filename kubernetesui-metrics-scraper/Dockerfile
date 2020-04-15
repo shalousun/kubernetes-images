@@ -1,2 +1,2 @@
-FROM kubernetesui/metrics-scraper:v1.0.3
+FROM kubernetesui/metrics-scraper:v1.0.4
 MAINTAINER shalousun

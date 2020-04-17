@@ -1,2 +1,2 @@
-FROM calico/typha:v3.13.0
+FROM calico/typha:v3.13.2
 MAINTAINER shalousun

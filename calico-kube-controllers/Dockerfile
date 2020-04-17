@@ -1,2 +1,2 @@
-FROM calico/kube-controllers:v3.13.2
+FROM calico/kube-controllers:v3.8.8
 MAINTAINER shalousun

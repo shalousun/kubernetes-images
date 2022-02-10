@@ -1,2 +1,2 @@
-FROM calico/node:v3.8.8-1
+FROM calico/node:v3.13.5
 MAINTAINER shalousun

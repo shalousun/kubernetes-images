@@ -1,0 +1,1 @@
+kubebuilder开发operator的基础镜像
